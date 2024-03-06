@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this momento:
-[![logo java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=kofi&logoColor=0D1117)](#)
+![java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=kofi&logoColor=white)](#)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
