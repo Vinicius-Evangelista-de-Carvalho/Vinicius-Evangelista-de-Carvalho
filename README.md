@@ -1,28 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C05D6&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C05D6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinícius+da+Silva+Evangelista;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Hello  Welcome! My name is Vinicius Evangelista👋😀
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Evangelista-de-Carvalho&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### _Meu nome é Vinícius Evangelista e sou um entusiasta da tecnologia atualmente cursando Análise e Desenvolvimento de Sistemas em uma faculdade em São Paulo. La pros meus 12 anos, sempre fui fascinado pelo mundo da programação e pela capacidade de criar soluções inovadoras por meio do código. Hoje com 21 anos estou pra me forma em ADS, estou no meu ultimo semestre mais estou com muita dificuldade para achar estágio mais uma coisa é certa não posso desistir pois só eu posso correr atras do meu FUTURO._
+#### _Atualmente, estou empenhado em aprimorar minhas habilidades de desenvolvimento de software, explorando diversas linguagens de programação e frameworks. Minha paixão pela resolução de problemas e minha curiosidade incessante me impulsionam a buscar constantemente novos conhecimentos e a aprimorar minhas habilidades técnicas pois no futuro adoraria ser profissional para o backend de aplicações web._
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vinicius-Evangelista-de-Carvalho}/count.svg" /></p> 
-<br>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Evangelista-de-Carvalho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Evangelista github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-<div align="center"> 
-<a href="https://instagram.com/bigode.ofc21?igshid=YWYwM2I1ZDdmOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:vinicius.sl56220@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
+#
 ### Main skills:
 ![ html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=#E44c25&textColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
@@ -32,7 +13,26 @@
 ![java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=kofi&logoColor=e20d05&textColor=0D1117)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
 
+## Github Status
+
+[![vinícius-Evangelista card](https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![vinícius-Evangelista stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&theme=dracula&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contact Forms
+<div> 
+<a href="https://instagram.com/bigode.ofc21?igshid=YWYwM2I1ZDdmOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:vinicius.sl56220@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C05D6&height=120&section=footer"/>
+
+<div>
+<br><h2>Vis3tors Count</h2>  
+<img align="center" src="https://profile-counter.glitch.me/{Vinicius-Evangelista-de-Carvalho}/count.svg" />
+<br>
+</div>
+
+<h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
+
