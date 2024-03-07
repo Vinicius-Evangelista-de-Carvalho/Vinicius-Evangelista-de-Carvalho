@@ -1,6 +1,6 @@
 # Hello  Welcome! My name is Vinicius Evangelista👋😀
 
-#### _Meu nome é Vinícius Evangelista e sou um entusiasta da tecnologia atualmente cursando Análise e Desenvolvimento de Sistemas em uma faculdade em São Paulo. La pros meus 12 anos, sempre fui fascinado pelo mundo da programação e pela capacidade de criar soluções inovadoras por meio do código. Hoje com 21 anos estou pra me forma em ADS, estou no meu ultimo semestre mais estou com muita dificuldade para achar estágio mais uma coisa é certa não posso desistir pois só eu posso correr atras do meu FUTURO._
+#### _Meu nome é Vinícius Evangelista e sou um entusiasta da tecnologia atualmente cursando Análise e Desenvolvimento de Sistemas em uma faculdade em São Paulo. La pros meus 12 anos, sempre fui fascinado pelo mundo da programação e pela capacidade de criar soluções inovadoras por meio do código. Hoje com 21 anos estou para me forma em ADS, estou no meu ultimo semestre mais estou com muita dificuldade para achar estágio mais uma coisa é certa não posso desistir pois só eu posso correr atras do meu FUTURO._
 #### _Atualmente, estou empenhado em aprimorar minhas habilidades de desenvolvimento de software, explorando diversas linguagens de programação e frameworks. Minha paixão pela resolução de problemas e minha curiosidade incessante me impulsionam a buscar constantemente novos conhecimentos e a aprimorar minhas habilidades técnicas pois no futuro adoraria ser profissional para o backend de aplicações web._
 
 #
