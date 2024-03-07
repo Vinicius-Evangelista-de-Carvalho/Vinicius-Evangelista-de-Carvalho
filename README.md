@@ -29,7 +29,7 @@
 
 
 <div>
-<br><h2>Vis3tors Count</h2>  
+<br><h2>Visitors Count</h2>  
 <img align="center" src="https://profile-counter.glitch.me/{Vinicius-Evangelista-de-Carvalho}/count.svg" />
 <br>
 </div>
