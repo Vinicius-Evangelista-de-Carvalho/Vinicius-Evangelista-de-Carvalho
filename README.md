@@ -26,7 +26,7 @@
 <a href = "mailto:vinicius.sl56220@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/bigode.ofc21"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50"></a>
 <a href="https://www.linkedin.com/in/nivanjr"> <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="50"></a>
-<a href="https://api.whatsapp.com/send?phone=555511960817390&text=Numero%20do%20Nivan%20Junior!%20(Ou%20Nivs%20para%20os%20mais%20pr%C3%B3ximos)."><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
+<a href="https://api.whatsapp.com/send?phone=555511960817390."><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
 
 
 
