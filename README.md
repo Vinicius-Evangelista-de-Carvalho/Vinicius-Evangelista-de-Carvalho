@@ -39,11 +39,15 @@
 
 
 
-<div>
-<br><h2>Visitors Count</h2>  
-<img align="center" src="https://profile-counter.glitch.me/{Vinicius-Evangelista-de-Carvalho}/count.svg" />
+<br>
+
+<h2>Visitors Count</h2> 
+  
+<p ><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVinicius-Evangelista-de-Carvalho&s=50&c=ac00e6&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
+ 
+
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
 
