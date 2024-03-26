@@ -38,7 +38,7 @@
 stou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema%20e%20estou%20em%20busca%20de%20um%20Estágio%20na%20aréa%20">
 <img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
 <a href="https://facebook.com/Vinny silver"><img src="https://seeklogo.com/images/F/facebook-icon-logo-AEF3A8F447-seeklogo.com.png" width="50"></a>
-<a href="https://"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50"></a>
+<a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50"></a>
 
 
 
