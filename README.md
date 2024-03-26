@@ -33,7 +33,7 @@
 
 <div> 
 <a href="https://instagram.com/bigode.ofc21"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50"></a>
-<a href="https://api.whatsapp.com/send?phone=11960817390&text=Sua%20mensagem%20aqui"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
+<a href="https://api.whatsapp.com/send?phone=11960817390&text=vinicius%20prazer%20estou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
 
 
 
