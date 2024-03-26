@@ -1,12 +1,12 @@
 <h1 align="center">
 	<img src="https://i.giphy.com/CaiVJuZGvR8HK.webp" alt="Huhm face" width="25px" height="25px">
-	Vinicius Evangelista
+	Vinícius Evangelista
 	<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width="30px" height="30px">
 </h1>
 
 
-#### _Meu nome é Vinícius Evangelista e sou um entusiasta da tecnologia atualmente cursando Análise e Desenvolvimento de Sistemas em uma faculdade em São Paulo. La pros meus 12 anos, sempre fui fascinado pelo mundo da programação e pela capacidade de criar soluções inovadoras por meio do código. Hoje com 21 anos estou para me forma em ADS, estou no meu ultimo semestre mais estou com muita dificuldade para achar estágio mais uma coisa é certa não posso desistir pois só eu posso correr atras do meu FUTURO._
-#### _Atualmente, estou empenhado em aprimorar minhas habilidades de desenvolvimento de software, explorando diversas linguagens de programação e frameworks. Minha paixão pela resolução de problemas e minha curiosidade incessante me impulsionam a buscar constantemente novos conhecimentos e a aprimorar minhas habilidades técnicas pois no futuro adoraria ser profissional para o backend de aplicações web._
+#### _My name is Vinícius Evangelista and I am a technology enthusiast currently studying Systems Analysis and Development at a college in São Paulo. Since I was 12 years old, I have always been fascinated by the world of programming and the ability to create innovative solutions through code. Today, at 21 years old, I'm about to graduate in ADS, I'm in my last semester but I'm having a lot of difficulty finding an internship, but one thing is certain, I can't give up because only I can chase my FUTURE.
+Currently, I am committed to improving my software development skills by exploring various programming languages ​​and frameworks. My passion for problem solving and my incessant curiosity drive me to constantly seek new knowledge and improve my technical skills because in the future I would love to be a professional for the backend of web applications._
 
 #
 <th align="center"><h2>⛏️ SKILLS 🔨</h2></th>
