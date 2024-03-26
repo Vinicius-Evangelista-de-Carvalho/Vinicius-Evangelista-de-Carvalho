@@ -23,12 +23,15 @@ Currently, I am committed to improving my software development skills by explori
 #
 <h2>📈 Github Status🙄</h2>
 
-[![vinícius-Evangelista card](https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![vinícius-Evangelista stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&theme=dracula&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 
-
-#
+</p>
 <h2> 💬 Contact Forms😁</h2>
 
 <div> 
