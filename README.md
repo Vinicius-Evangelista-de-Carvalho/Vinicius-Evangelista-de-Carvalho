@@ -12,7 +12,6 @@ Currently, I am committed to improving my software development skills by explori
 
 #
 
-<img src="http://contador.kinghost.com.br/contador.cgi?display=clock|tformat=24">
 
 <center>
 	<table align="center">
