@@ -106,7 +106,7 @@ width="50px"></img></a>
 <a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147173-social-media-circled-network11_79480.png" width="50"></a>
 
 
-<a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50"></a>
+<a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://cdn.icon-icons.com/icons2/72/PNG/256/email_14410.png" width="50"></a>
 
 
 
