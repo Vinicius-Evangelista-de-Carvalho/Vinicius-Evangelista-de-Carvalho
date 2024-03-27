@@ -112,7 +112,11 @@ width="50">
 </a>
 
 
+<a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09">
+<img src="https://cdn.icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" 
+width="50">
 
+</a>
 
 <br>
 
