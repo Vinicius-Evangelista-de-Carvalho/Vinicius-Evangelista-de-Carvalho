@@ -105,8 +105,7 @@ stou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema%20e%20estou%20em%20b
 width="50px"></img></a>
 <a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" width="50"></a>
 <a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://cdn.icon-icons.com/icons2/72/PNG/256/email_14410.png" width="50"></a>
-![Telegram]<a href="https://t.me/+5511960817390"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" width="50"></a>
-
+<a href="https://t.me/+5511960817390"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" width="50"></a>
 <a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09">
 <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" 
 width="50">
