@@ -103,8 +103,9 @@ Currently, I am committed to improving my software development skills by explori
 stou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema%20e%20estou%20em%20busca%20de%20um%20Estágio%20na%20aréa%20">
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png"
 width="50px"></img></a>
+<a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147173-social-media-circled-network11_79480.png" width="50"></a>
 
-<a href="https://facebook.com/61557591638581"><img src="https://seeklogo.com/images/F/facebook-icon-logo-AEF3A8F447-seeklogo.com.png" width="50"></a>
+
 <a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50"></a>
 
 
