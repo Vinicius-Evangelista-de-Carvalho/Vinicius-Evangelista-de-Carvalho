@@ -120,13 +120,9 @@ width="50">
 <br>
 
 <h2>Visitors Count</h2> 
-  
-<p ><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVinicius-Evangelista-de-Carvalho&s=50&c=ac00e6&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
-</div>
 
 <!-- Inicio codigo Contador -->
-<div align="center"><a title="busca cep" href="https://buscacep.net/"><img src="https://contador-gratis.com/contadores-de-visitas/270324071951430.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas">Contador de Visitas</a></div></div>
+<div align="center"><a title="busca cep" href="https://buscacep.net/"><img src="https://contador-gratis.com/contadores-de-visitas/270324071951430.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas"><h2>Contador de Visitas</h2></a></div></div>
 <!-- Fim do codigo Contador -->
  
 
