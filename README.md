@@ -106,7 +106,7 @@ width="50px"></img></a>
 <a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147173-social-media-circled-network11_79480.png" width="50"></a>
 <a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://cdn.icon-icons.com/icons2/72/PNG/256/email_14410.png" width="50"></a>
 <a href="https://t.me/+5511960817390"><img src="https://cdn.icon-icons.com/icons2/2748/PNG/512/telegram_apps_platform_icon_176051.png" width="50"></a>
-<a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09"><img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/20ec2a8e-dbef-4957-403f-50931c8b7500/preview" width="50"></a>
+<a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09"><img src="https://static.vecteezy.com/ti/vetor-gratis/p1/6057998-twitter-logo-on-transparent-background-gratis-vetor.jpg" width="50"></a>
 
 
 
