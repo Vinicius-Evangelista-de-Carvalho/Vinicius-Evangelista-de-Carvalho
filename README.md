@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">
 	<img src="https://i.giphy.com/CaiVJuZGvR8HK.webp" alt="Huhm face" width="25px" height="25px">
 	Vinícius Evangelista
@@ -127,3 +129,5 @@ width="50">
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
 
+
+</div>
