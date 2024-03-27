@@ -97,22 +97,21 @@ Currently, I am committed to improving my software development skills by explori
 <h2> 💬 Contact Forms😁</h2>
 
 <div> 
-	
-				
-![ Instagram](<a href="https://instagram.com/bigode.ofc21"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"></a>)
-![whatsapp](<a href="https://api.whatsapp.com/send?phone=5511960817390&text=prazer%20meu%20nome%20é%20vinicius%20e%20e
+
+<a href="https://instagram.com/bigode.ofc21"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"></a>
+<a href="https://api.whatsapp.com/send?phone=5511960817390&text=prazer%20meu%20nome%20é%20vinicius%20e%20e
 stou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema%20e%20estou%20em%20busca%20de%20um%20Estágio%20na%20aréa%20">
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png"
-width="50px"></img></a>)
-![Facebook](<a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" width="50"></a>)
-![E-mail]<a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://cdn.icon-icons.com/icons2/72/PNG/256/email_14410.png" width="50"></a>
+width="50px"></img></a>
+<a href="https://facebook.com/61557591638581"><img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" width="50"></a>
+<a href="mailto:vinicius.sl56220@gmail.com.com"><img src="https://cdn.icon-icons.com/icons2/72/PNG/256/email_14410.png" width="50"></a>
 ![Telegram]<a href="https://t.me/+5511960817390"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" width="50"></a>
 
-![Twitter]<a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09">
+<a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09">
 <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" 
 width="50">
 </a>
-![ LinkedIn]<a href="https://www.linkedin.com/in/vin%C3%ADcius-evangelista-9b6a312b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-evangelista-9b6a312b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://cdn.icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" 
 width="50">
 </a>
