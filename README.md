@@ -115,9 +115,7 @@ width="50">
 
 <h2>Visitors Count</h2> 
 
-<!-- Inicio codigo Contador -->
-<div align="center"><a title="busca cep" href="https://buscacep.net/"><img src="https://contador-gratis.com/contadores-de-visitas/270324073434277.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas">Contador de Visitas</a></div></div>
-<!-- Fim do codigo Contador -->
+<a href="http://br.web-counter.net" title="Contador de visitas"><img src="http://www.web-counter.net/count_20091204.php?c=1DmBRpsBxEV" style="border:0;padding:0;margin:0;" alt="Contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://fr.web-counter.net" title="compteur de visite">compteur de visite</a><br/><a href="http://br.web-counter.net" title="Contador de visitas">Contador de visitas</a></font>
  
 
 
