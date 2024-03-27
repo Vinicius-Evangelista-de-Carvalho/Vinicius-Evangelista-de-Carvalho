@@ -115,7 +115,38 @@ width="50">
 
 <h2>Visitors Count</h2> 
 
-<a href="http://br.web-counter.net" title="Contador de visitas"><img src="http://www.web-counter.net/count_20091204.php?c=1DmBRpsBxEV" style="border:0;padding:0;margin:0;" alt="Contador de visitas"></a><br/><font size="1" face="Arial"><a href="http://fr.web-counter.net" title="compteur de visite">compteur de visite</a><br/><a href="http://br.web-counter.net" title="Contador de visitas">Contador de visitas</a></font>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contador de Visitas</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  .contador {
+    color: purple;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 100px;
+  }
+</style>
+</head>
+<body>
+<div class="contador">
+  <p>Contador de Visitas: <span id="contador">0</span></p>
+</div>
+<script>
+  // Simulação de um contador de visitas
+  let contador = parseInt(localStorage.getItem('visitas')) || 0;
+  contador++;
+  document.getElementById('contador').textContent = contador;
+  localStorage.setItem('visitas', contador);
+</script>
+</body>
+</html>
  
 
 
