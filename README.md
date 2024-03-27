@@ -99,7 +99,7 @@ Currently, I am committed to improving my software development skills by explori
 <div> 
 	
 				
-![Instagram]<a href="https://instagram.com/bigode.ofc21"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"></a>
+![ Instagram]<a href="https://instagram.com/bigode.ofc21"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"></a>
 ![whatsapp]<a href="https://api.whatsapp.com/send?phone=5511960817390&text=prazer%20meu%20nome%20é%20vinicius%20e%20e
 stou%20cursando%20,Analise%20Desemvolvimento%20De%20Sistema%20e%20estou%20em%20busca%20de%20um%20Estágio%20na%20aréa%20">
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png"
