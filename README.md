@@ -98,7 +98,7 @@ Currently, I am committed to improving my software development skills by explori
 
 <div> 
 	
-<a href="https://instagram.com/bigode.ofc21"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50"></a>
+<a href="https://instagram.com/bigode.ofc21"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"></a>
 
 
 
