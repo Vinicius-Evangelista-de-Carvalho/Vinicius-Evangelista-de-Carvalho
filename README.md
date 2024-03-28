@@ -7,9 +7,9 @@
 </h1>
 
 
-<div color="purple"> Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou empenhado em aprimorar minhas habilidades técnicas para criar soluções inovadoras.Estou sempre em busca de oportunidades para colaborar e fazer a diferença na comunidade. Ansioso para compartilhar conhecimentos e experiências com vocês ao longo desta jornada.
-</div>
-#
+Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou empenhado em aprimorar minhas habilidades técnicas para criar soluções inovadoras.Estou sempre em busca de oportunidades para colaborar e fazer a diferença na comunidade. Ansioso para compartilhar conhecimentos e experiências com vocês ao longo desta jornada.
+
+
 
 
 <center>
