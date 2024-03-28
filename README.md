@@ -82,6 +82,15 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
 
 
+ <br>
+ <br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&count_private=true&hide_border=true&title_color=7600bc&icon_color=7600bc&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu-Bia&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+<br>
+<br>
+
 
 
 <div style="text-align: center;">
