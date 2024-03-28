@@ -88,7 +88,7 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=7600bc&icon_color=7600bc&text_color=c9d1d9&bg_color=0d1117" /> 
 
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=00000000" />
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 </br>
@@ -125,7 +125,7 @@ width="50">
 
 <p align="centre"><b>Visitors Count</b></p> 
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=c9d1d9&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&c=c9d1d9&bg=ffffff&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
