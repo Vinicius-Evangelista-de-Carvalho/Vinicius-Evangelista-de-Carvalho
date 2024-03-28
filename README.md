@@ -81,12 +81,14 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 <h2>📈 Github Status🙄</h2>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  [![GitHub Streak](<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">)]
+
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&theme=darcula&hide_border=true&background=FFFFFF00">
 	
   <br>
