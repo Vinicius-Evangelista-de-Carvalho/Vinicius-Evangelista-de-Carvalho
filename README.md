@@ -85,13 +85,14 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
  <br>
  <br>
 <div align="center">  
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=7600bc&icon_color=7600bc&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=7600bc&icon_color=7600bc&text_color=c9d1d9&bg_color=0d1117" /> 
 
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117>
+<img height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
 
 </br>
 </br>
