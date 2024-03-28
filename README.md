@@ -125,7 +125,7 @@ width="50">
 
 <p align="centre"><b>Visitors Count</b></p> 
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&c=c9d1d9&bg=ffffff&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&text_color=c9d1d9&bg=0d1117&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
