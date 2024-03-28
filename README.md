@@ -53,8 +53,8 @@ Currently, I am committed to improving my software development skills by explori
 	<table align="center">
 <thead>
 		<tr>
-			<th align="center"><h2>📈 my tools 😀</h2></th>
-			<th align="center"><h2>📈 tools I'm studying 😀</h2></th>
+			<th align="center"><h2>⚒️ my tools ⚒️</h2></th>
+			<th align="center"><h2>📖⚒️ tools I'm studying⚒️📖 </h2></th>
 		</tr>
 </thead>
 <tbody>
