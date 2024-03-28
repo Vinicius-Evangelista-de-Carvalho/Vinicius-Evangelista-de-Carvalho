@@ -109,19 +109,13 @@ width="50px"></img></a>
 <a href="https://t.me/+5511960817390"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" width="50"></a>
 <a href="https://x.com/BigodeSilva22?t=Fi3xu2wvdTGcJN7feAK5Ew&s=09">
 <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" 
-width="50">
-</a>
+width="50"></a>
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-evangelista-9b6a312b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://cdn.icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" 
 width="50">
 </a>
 
-<br>
-
-<br>
-<br>
-<br>
-<br>
+![snake gif](https://github.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/blob/output/github-contribution-grid-snake.svg)
 
 <p align="centre"><h2>🔔🧮Visitors Count 🧮🔔</h2></p> 
 
