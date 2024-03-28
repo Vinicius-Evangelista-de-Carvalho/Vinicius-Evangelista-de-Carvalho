@@ -115,6 +115,9 @@ width="50">
 
 <h2>Visitors Count</h2> 
 
+<!-- Inicio codigo Contador -->
+<div align="center"><a title="busca cep" href="https://buscacep.net/"><img src="https://contador-gratis.com/contadores-de-visitas/280324121030413.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com</a></div></div>
+<!-- Fim do codigo Contador -->
  
 
 
