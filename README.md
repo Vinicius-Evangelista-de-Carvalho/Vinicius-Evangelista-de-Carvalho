@@ -120,9 +120,18 @@ width="50">
 
 <h2>Visitors Count</h2> 
 
-<!-- Inicio codigo Contador -->
-<a title="busca cep" href="https://buscacep.net/"><img src="https://contador-gratis.com/contadores-de-visitas/280324121030413.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas"></a></div>
-<!-- Fim do codigo Contador -->
+<div align="center">
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%Vinicius-Evangelista-de-Carvalho&s=50&c=0d1117&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
+</div>
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
 
