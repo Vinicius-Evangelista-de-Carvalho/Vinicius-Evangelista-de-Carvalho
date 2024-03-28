@@ -90,7 +90,7 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />]
 
-![snake gif](https://github.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/output/github-contribution-grid-snake-dark.svg" )
 
 
 </div>
