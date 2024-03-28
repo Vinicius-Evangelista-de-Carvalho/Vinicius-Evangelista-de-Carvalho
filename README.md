@@ -89,15 +89,12 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-<br>
-<br>
 
 
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117>
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"><img src ="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Evangelista-de-Carvalho&theme=darcula&hide_border=true&background=FFFFFF00">
-	
-  <br>
-  <br>
+</br>
+</br>
 
 </p>
 <h2> 💬 Contact Forms😁</h2>
