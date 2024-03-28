@@ -88,9 +88,8 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=7600bc&icon_color=7600bc&text_color=c9d1d9&bg_color=0d1117" /> 
 
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />]
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Evangelista-de-Carvalho&layout=compact&hide_border=true&title_color=7600bc&text_color=c9d1d9&bg_color=0d1117" />
 
-![snake gif](https://raw.githubusercontent.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/output/github-contribution-grid-snake-dark.svg" )
 
 
 </div>
@@ -141,10 +140,6 @@ width="50"></a>
 <img src="https://cdn.icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" 
 width="50">
 </a>
-
-
-
-
 
 <p align="centre"><h2>🔔🧮Visitors Count 🧮🔔</h2></p> 
 
