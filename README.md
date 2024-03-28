@@ -146,7 +146,7 @@ width="50">
 <br>
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/AKhilRaghav0/AKhilRaghav0/main/images/preview.gif">
+<img src="https://raw.githubusercontent.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/main/imagens/e.gif">
 </div>
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
