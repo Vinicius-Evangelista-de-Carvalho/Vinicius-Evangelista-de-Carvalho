@@ -63,7 +63,7 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png" width="50"></a>
+
 </td>
 <td align="center" style="vertical-align: top;">
 	
