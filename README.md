@@ -17,7 +17,6 @@ Currently, I am committed to improving my software development skills by explori
 	<table align="center">
 		<thead>
 			<tr>
-
 				<th align="center"><h2>📚 my languages 📚</h2></th>
 				<th align="center"><h2>📖 my languages that I'm learning 📖</h2></th>
 			</tr>
