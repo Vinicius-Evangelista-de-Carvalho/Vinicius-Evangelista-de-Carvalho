@@ -85,7 +85,7 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
 
 <div style="text-align: center;">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=6e5494">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Evangelista-de-Carvalho&show_icons=true&count_private=true&theme=darcula&color=6e5494&hide_border=true&hide=issues,contribs&bg_color=000000">
 </div>
 
 
