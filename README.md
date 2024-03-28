@@ -129,7 +129,7 @@ width="50">
 
 <p align="centre"><b>Visitors Count</b></p> 
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%viniciusgiacomelli&s=50&chide_border=true&text_color=c9d1d9&bg_color=0d1117&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%viniciusgiacomelli&s=50&chide_border=true&text_color=c9d1d9&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
