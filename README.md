@@ -143,7 +143,7 @@ width="50">
 <p align="centre"><h2>🔔🧮Visitors Count 🧮🔔</h2></p> 
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&c=ffff&bg=0d1117&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<img src="https://raw.githubusercontent.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/main/imagens/e.gif">
+<img src="https://raw.githubusercontent.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/main/imagens/download.jpg">
 </div>
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
