@@ -117,6 +117,9 @@ width="50">
 
 ![snake gif](https://github.com/Vinicius-Evangelista-de-Carvalho/Vinicius-Evangelista-de-Carvalho/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif">
+
+
 <p align="centre"><h2>🔔🧮Visitors Count 🧮🔔</h2></p> 
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&c=ffff&bg=0d1117&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
