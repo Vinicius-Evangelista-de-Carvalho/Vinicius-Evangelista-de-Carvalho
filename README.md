@@ -7,9 +7,8 @@
 </h1>
 
 
-#### _My name is Vinícius Evangelista and I am a technology enthusiast currently studying Systems Analysis and Development at a college in São Paulo. Since I was 12 years old, I have always been fascinated by the world of programming and the ability to create innovative solutions through code. Today, at 21 years old, I'm about to graduate in ADS, I'm in my last semester but I'm having a lot of difficulty finding an internship, but one thing is certain, I can't give up because only I can chase my FUTURE.
-Currently, I am committed to improving my software development skills by exploring various programming languages ​​and frameworks. My passion for problem solving and my incessant curiosity drive me to constantly seek new knowledge and improve my technical skills because in the future I would love to be a professional for the backend of web applications._
-
+<div color="purple"> Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou empenhado em aprimorar minhas habilidades técnicas para criar soluções inovadoras.Estou sempre em busca de oportunidades para colaborar e fazer a diferença na comunidade. Ansioso para compartilhar conhecimentos e experiências com vocês ao longo desta jornada.
+</div>
 #
 
 
