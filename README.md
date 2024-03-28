@@ -11,7 +11,6 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 
 
 
-
 <center>
 	<table align="center">
 		<thead>
@@ -145,6 +144,9 @@ width="50">
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&layout=compact&hide_border=true&s=50&c=ffff&bg=0d1117&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/AKhilRaghav0/AKhilRaghav0/main/images/preview.gif">
 </div>
 
 <h3>Thank you for your attention, repositories below, come back often👋😀</h3> 
