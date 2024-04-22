@@ -157,7 +157,7 @@ Olá a todos,Meu nome é Vinícius Evangelista e estou cursando Análise e Desen
 <!---->
 <!---->
 <!---->
-<h1>
+
 Galera, estou passando por um tipo de "crise existencial" rsrs, e talvez vocês já tenham pensado sobre ou talvez comecem a pensar também.
 
 Alguns profissionais se denominam Back-enders, outros Sysadmins, dai surgiram os DevOps que manjam dos paranauê de back e sys, e por fim, os Full-stacks, que além de DevOps, também sacam de front. De certa forma, isso está até bem claro, o problema, é que o Front-end em sí, se tornou algo muito amplo. Se dissermos que Front-end, na verdade é Client-side, teríamos até mobile fazendo parte da treta, mas nem vou considerar isso. Minha grande inquietação, está no fato de designers, diagramadores (HTML + CSS) e programadores JS (digo programadores que lidam com Apps com suas 4 ou 5 mil linhas de JS), acabam fazendo parte do mesmo bolo. Eu não acho isso ruim, apenas acho confuso, e muitas vezes geram aquelas discussões superficiais. Pois mesmo na roda de Front-ends, tem os caras que manjam quase nada de CSS e os caras que não tem idéia do que é MVC ou MVW*
@@ -166,5 +166,4 @@ Eu por ex, estou longe de ser um designer, conheço razoavelmente HTML e CSS, ma
 
 Minha dúvida é se da pra chamar toda essa galera, de "os caras do front", ou se existem discussões mais filosóficas que tentam dividir melhor nossos perfis.
 
-</h1>
 </div>
